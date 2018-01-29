@@ -14,9 +14,8 @@ Please check the readme files in the ````programEnv```` and ````visualizationEnv
 
 ### IDEA videos - main features of the debugger:
 
-- The videos can be found [here]
-(https://www.dropbox.com/sh/evjdc78npgn346j/AADeKkQPcBFd9SSiz86PL9t9a?dl=0).
+- The videos can be found [here](https://www.dropbox.com/sh/evjdc78npgn346j/AADeKkQPcBFd9SSiz86PL9t9a?dl=0).
 
-### Initial User study
+### Initial user-study
 
 - An initial user study can be found [here](https://www.dropbox.com/s/ajne8c0rwedowyh/user_study.pdf?dl=0).
