@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 056832ef6072e554d979a1ea3047c9de
+timeCreated: 1493715003
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sender: {instanceID: 0}
+  - recipient: {instanceID: 0}
+  - prefabLink3DText: {fileID: 160558, guid: 44ce2ec527530b441b4c51ea8261d8df, type: 2}
+  - infoText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
